@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://javascript.reativa.dev/0-cheatsheet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Accordion/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Alert/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/AutoLink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Carousel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Collapse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/ControlledInput/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/CountDown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/DataList/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/DataTable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/FileDrop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/LimitedTextarea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Loader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/LimitedWordTextarea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Mailto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/MappedTable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Modal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/MultiselectCheckbox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/PasswordRevealer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/RippleButton/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Select/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Slider/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/StarRating/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Tabs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/TagInput/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/TextArea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Ticker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Toggle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/Tooltip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/TreeView/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/UncontrolledInput/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useAsync/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useClickInside/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useClickOutside/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useComponentDidMount/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useFetch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useInterval/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useMediaQuery/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useNavigatorOnLine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/usePrevious/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useSSR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/useTimeout/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://javascript.reativa.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
